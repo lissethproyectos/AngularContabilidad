@@ -1,0 +1,8 @@
+{
+    "data": [ 
+        {"descripcion": "CAMBIO DE CARRERA", "clave": "L0403", "nivel": "L"}, 
+        {"descripcion": "CONSTANCIA SIN MATERIAS", "clave": "L0405", "nivel": "L"}, 
+        {"descripcion": "CONSTANCIA CON MATERIAS", "clave": "L0406", "nivel": "L"}, 
+        {"descripcion": "CERTIFICADO DE ESTUDIOS PROFESIONALES", "clave": "L0411", "nivel": "L"}
+    ]
+}
